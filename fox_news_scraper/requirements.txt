@@ -1,0 +1,9 @@
+grequests
+feedparser
+beautifulsoup4
+nltk
+pandas
+boto3
+pytest
+pytest-cov
+python-dotenv
